@@ -46,14 +46,14 @@ This project allowed me to:
       <sub>Test Script</sub>
     </td>
     <td align="center">
-      <img src="screenshots/Zephyr - Test script(2).png" width="450" height="250"/><br/>
+      <img src="screenshots/Zephyr - Test script (2).png" width="450" height="250"/><br/>
       <sub>Test Script</sub>
     </td>
   </tr>
    <tr>
     <td align="center">
-      <img src="screenshots/Zephyr - Test Details.png" width="450" height="250"/><br/>
-      <sub>Test Details</sub>
+      <img src="screenshots/Zephyr - Test Case Details.png" width="450" height="250"/><br/>
+      <sub>Test Case Details</sub>
     </td>
     <td align="center">
       <img src="screenshots/Zephyr - Test Case Traceability.png" width="450" height="250"/><br/>
