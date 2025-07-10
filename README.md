@@ -14,7 +14,7 @@ The goal of the project was to gain hands-on experience in manual software testi
 - Documented test results and reported any issues found  
 - Worked with **Zephyr Scale (Jira)** to manage test cases and test cycles  
 - Created and maintained **test execution reports** to track test coverage and outcomes  
-- Learned to **navigate Zephyr Scale fluently**, organizing test plans and cycles efficiently
+- Learned to **navigate Zephyr Scale fluently**, organizing test cycles efficiently
 
 ## ⚙️ About the Application
 
