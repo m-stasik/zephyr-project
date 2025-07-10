@@ -27,6 +27,8 @@ This project allowed me to:
 - Write structured and clear **test documentation**
 - Practice executing test scenarios and **reporting bugs** in a professional QA environment
 
+# 📸 Screenshots
+
 <table>
   <tr>
     <td align="center">
