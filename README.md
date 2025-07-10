@@ -36,7 +36,7 @@ This project allowed me to:
       <sub>Login page view</sub>
     </td>
     <td align="center">
-      <img src="screenshots/screen2.png" width="450"/><br/>
+      <img src="screenshots/screen2.png" width="450" high="200"/><br/>
       <sub>Filter functionality</sub>
     </td>
   </tr>
