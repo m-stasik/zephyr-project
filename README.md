@@ -36,17 +36,37 @@ This project allowed me to:
       <sub>Test Cases</sub>
     </td>
     <td align="center">
-      <img src="screenshots/screen2.png" width="450" height="250"/><br/>
+      <img src="screenshots/Zephyr - Test Cycles.png width="450" height="250"/><br/>
       <sub>Test Cycles</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/screen3.png" width="450" height="250"/><br/>
+      <img src="screenshots/Zephyr - Test Cycles.png" width="450" height="250"/><br/>
       <sub>Edit player form</sub>
     </td>
     <td align="center">
-      <img src="screenshots/screen4.png" width="450" height="250"/><br/>
+      <img src="screenshots/Zephyr - Test Cycles.png" width="450" height="250"/><br/>
+      <sub>Validation error example</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test Cycles.png" width="450" height="250"/><br/>
+      <sub>Edit player form</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test Cycles.png" width="450" height="250"/><br/>
+      <sub>Validation error example</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test Cycles.png" width="450" height="250"/><br/>
+      <sub>Edit player form</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/Zephyr - Test Cycles.png" width="450" height="250"/><br/>
       <sub>Validation error example</sub>
     </td>
   </tr>
