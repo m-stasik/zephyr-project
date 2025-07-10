@@ -32,11 +32,11 @@ This project allowed me to:
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/Zephyr - Test Cases.png" width="450" hight="200"/><br/>
+      <img src="screenshots/Zephyr - Test Cases.png" width="450" height="200"/><br/>
       <sub>Login page view</sub>
     </td>
     <td align="center">
-      <img src="screenshots/screen2.png" width="450" hight="200"/><br/>
+      <img src="screenshots/screen2.png" width="450" height="200"/><br/>
       <sub>Filter functionality</sub>
     </td>
   </tr>
