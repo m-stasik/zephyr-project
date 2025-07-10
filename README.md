@@ -33,11 +33,11 @@ This project allowed me to:
   <tr>
     <td align="center">
       <img src="screenshots/Zephyr - Test Cases.png" width="450" height="250"/><br/>
-      <sub>Login page view</sub>
+      <sub>Test Cases</sub>
     </td>
     <td align="center">
       <img src="screenshots/screen2.png" width="450" height="250"/><br/>
-      <sub>Filter functionality</sub>
+      <sub>Test Cycles</sub>
     </td>
   </tr>
   <tr>
