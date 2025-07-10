@@ -26,3 +26,26 @@ This project allowed me to:
 - Develop skills in **requirements analysis**
 - Write structured and clear **test documentation**
 - Practice executing test scenarios and **reporting bugs** in a professional QA environment
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/screen1.png" width="300"/><br/>
+      <sub>Login page view</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/screen2.png" width="300"/><br/>
+      <sub>Filter functionality</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/screen3.png" width="300"/><br/>
+      <sub>Edit player form</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/screen4.png" width="300"/><br/>
+      <sub>Validation error example</sub>
+    </td>
+  </tr>
+</table>
