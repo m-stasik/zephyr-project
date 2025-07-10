@@ -32,7 +32,7 @@ This project allowed me to:
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/Zephyr - Test Cases.png" width="450"/><br/>
+      <img src="screenshots/Zephyr - Test Cases.png" width="450" high="200"/><br/>
       <sub>Login page view</sub>
     </td>
     <td align="center">
