@@ -29,6 +29,7 @@ This project allowed me to:
 
 # 📸 Screenshots
 
+
 <table>
   <tr>
     <td align="center">
@@ -81,3 +82,15 @@ This project allowed me to:
     </td>
   </tr>
 </table>
+
+## 🧠 Reflections & Additional Resources
+
+This project was a valuable learning experience that helped me understand the structure and discipline required in manual testing.  
+It taught me how to think critically about user behavior, analyze functionality from a tester's perspective, and maintain clear, structured documentation throughout the testing process.
+
+Through hands-on work with real UI components and test case management in Zephyr Scale, I gained confidence in navigating test environments, creating meaningful test scenarios, and identifying edge cases that could impact user experience.
+
+If you're curious to explore the project more closely, I’d be happy to **share access to the original Jira test project** used during the DareIT QA Challenge — feel free to reach out!
+
+📎 You can also download the **Excel file containing all test cases** created during the project:  
+👉 [Download Test Cases (XLSX)](resources/scouts-test-cases.xlsx)
