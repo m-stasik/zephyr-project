@@ -93,4 +93,4 @@ Through hands-on work with real UI components and test case management in Zephyr
 If you're curious to explore the project more closely, I’d be happy to **share access to the original Jira test project** used during the DareIT QA Challenge — feel free to reach out!
 
 📎 You can also download the **Excel file containing all test cases** created during the project:  
-👉 [Download Test Cases (XLSX)](resources/scouts-test-cases.xlsx)
+👉 [Download Test Cases (XLSX)](screenshots/scouts-test-cases.xlsx)
